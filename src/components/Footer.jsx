@@ -1,3 +1,7 @@
 export default function Footer() {
-  return null
+  return (
+    <footer>
+      <small>EcoPilot AI</small>
+    </footer>
+  )
 }
