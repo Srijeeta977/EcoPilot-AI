@@ -1,0 +1,42 @@
+export const challenges = [
+  {
+    id: 1,
+    title: "Public Transport Week",
+    description: "Use public transport instead of a car for one week.",
+    impact: "High",
+    points: 50,
+    category: "transport",
+  },
+  {
+    id: 2,
+    title: "Meat-Free Week",
+    description: "Avoid meat for 7 days.",
+    impact: "High",
+    points: 40,
+    category: "food",
+  },
+  {
+    id: 3,
+    title: "Energy Saver",
+    description: "Reduce electricity consumption by 10%.",
+    impact: "Medium",
+    points: 30,
+    category: "energy",
+  },
+  {
+    id: 4,
+    title: "Zero Waste Weekend",
+    description: "Minimize household waste for a weekend.",
+    impact: "Medium",
+    points: 25,
+    category: "waste",
+  },
+  {
+    id: 5,
+    title: "Reusable Lifestyle",
+    description: "Avoid single-use plastic products for a week.",
+    impact: "Low",
+    points: 20,
+    category: "waste",
+  },
+];
