@@ -197,7 +197,9 @@ The calculations are educational estimates and are intended for awareness and be
 
 ### Dashboard
 
-*Add screenshot here*
+![Dashboard 1](README-assets/Dashboard_1.png)
+
+![Dashboard 2](README-assets/Dashboard_2.png)
 
 ### AI Coach
 
