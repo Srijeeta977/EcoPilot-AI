@@ -189,29 +189,23 @@ The calculations are educational estimates and are intended for awareness and be
 
 ### Home Page
 
-![Home 1](README-assets/Homepage_1.png)
-
-![Home 2](README-assets/Homepage_2.png)
-
-![Home 3](README-assets/Homepage_3.png)
+*Add screenshot here*
 
 ### Dashboard
 
-![Dashboard 1](README-assets/Dashboard_1.png)
-
-![Dashboard 2](README-assets/Dashboard_2.png)
+*Add screenshot here*
 
 ### AI Coach
 
-![Coach 1](README-assets/Coach.png)
+*Add screenshot here*
 
 ### Impact Simulator
 
-![Simulator 1](README-assets/Simulator.png)
+*Add screenshot here*
 
 ### Green Challenges
 
-![Challenge 1](README-assets/Challenge.png)
+*Add screenshot here*
 
 ---
 
