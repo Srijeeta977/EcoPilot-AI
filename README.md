@@ -5,7 +5,13 @@ EcoPilot AI is an intelligent sustainability platform that helps individuals und
 Built using React, Vite, Tailwind CSS, Recharts, and Local Storage, the platform transforms environmental awareness into measurable action through a modern and user-friendly experience.
 
 ---
+## 🚀 Live Project
 
+🌐 Live Demo: https://ecopilotai-gamma.vercel.app/
+
+📂 Source Code: https://github.com/Srijeeta977/EcoPilot-AI
+
+---
 ## 📌 Problem Statement
 
 Design a solution that helps individuals understand, track, and reduce their carbon footprint through simple actions and personalized insights.
