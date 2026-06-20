@@ -191,6 +191,10 @@ The calculations are educational estimates and are intended for awareness and be
 
 ![Home 1](README-assets/Homepage_1.png)
 
+![Home 2](README-assets/Homepage_2.png)
+
+![Home 3](README-assets/Homepage_3.png)
+
 ### Dashboard
 
 *Add screenshot here*
