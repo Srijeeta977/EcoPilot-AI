@@ -203,15 +203,15 @@ The calculations are educational estimates and are intended for awareness and be
 
 ### AI Coach
 
-*Add screenshot here*
+![Coach 1](README-assets/Coach.png)
 
 ### Impact Simulator
 
-*Add screenshot here*
+![Simulator 1](README-assets/Simulator.png)
 
 ### Green Challenges
 
-*Add screenshot here*
+![Challenge 1](README-assets/Challenge.png)
 
 ---
 
