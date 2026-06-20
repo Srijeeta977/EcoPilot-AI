@@ -189,7 +189,7 @@ The calculations are educational estimates and are intended for awareness and be
 
 ### Home Page
 
-*Add screenshot here*
+![Home 1](README-assets/Homepage_1.png)
 
 ### Dashboard
 
