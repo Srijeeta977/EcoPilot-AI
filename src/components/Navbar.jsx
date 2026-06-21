@@ -49,12 +49,15 @@ export default function Navbar() {
         <div className="flex items-center gap-2">
           <Link
             to="/dashboard"
+            aria-label="Start Tracking Carbon Footprint"
             className="hidden rounded-lg bg-emerald-950 px-4 py-2 text-sm font-semibold text-white shadow-sm transition hover:bg-emerald-900 sm:inline-flex"
           >
             Start Tracking
           </Link>
           <details className="group relative md:hidden">
-            <summary className="grid size-10 cursor-pointer list-none place-items-center rounded-lg border border-emerald-950/10 bg-white text-emerald-950 shadow-sm transition hover:bg-emerald-50">
+            <summary
+              aria-label="Open navigation menu"
+              className="grid size-10 cursor-pointer list-none place-items-center rounded-lg border border-emerald-950/10 bg-white text-emerald-950 shadow-sm transition hover:bg-emerald-50">
               <Menu className="size-5" aria-hidden="true" />
               <span className="sr-only">Open navigation menu</span>
             </summary>

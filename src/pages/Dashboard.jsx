@@ -367,6 +367,7 @@ export default function Dashboard() {
             <div className="mt-6 flex flex-col gap-3 sm:flex-row sm:flex-wrap">
               <button
                 type="submit"
+                aria-label="Save carbon footprint profile"
                 className="inline-flex items-center justify-center gap-2 rounded-lg bg-emerald-950 px-4 py-3 text-sm font-semibold text-white shadow-sm transition hover:bg-emerald-900"
               >
                 <Save className="size-4" aria-hidden="true" />
@@ -374,6 +375,7 @@ export default function Dashboard() {
               </button>
               <button
                 type="button"
+                aria-label="Set current footprint as baseline"
                 onClick={handleBaselineReset}
                 className="inline-flex items-center justify-center gap-2 rounded-lg border border-emerald-950/15 bg-white px-4 py-3 text-sm font-semibold text-emerald-950 shadow-sm transition hover:bg-emerald-50"
               >
@@ -382,6 +384,7 @@ export default function Dashboard() {
               </button>
               <button
                 type="button"
+                aria-label="Restore default footprint values"
                 onClick={handleRestoreDefaults}
                 className="inline-flex items-center justify-center gap-2 rounded-lg border border-slate-200 bg-slate-50 px-4 py-3 text-sm font-semibold text-slate-700 transition hover:bg-slate-100"
               >
@@ -406,7 +409,7 @@ export default function Dashboard() {
                   <BarChart3 className="size-5 text-teal-700" aria-hidden="true" />
                 </div>
 
-                <div className="mt-5 h-72">
+                <div className="mt-5 h-72" role="img"  aria-label="Carbon footprint category breakdown chart">
                   <ResponsiveContainer width="100%" height="100%">
                     <PieChart>
                       <Pie
@@ -462,7 +465,7 @@ export default function Dashboard() {
                   <Activity className="size-5 text-teal-700" aria-hidden="true" />
                 </div>
 
-                <div className="mt-6 h-80">
+                <div className="mt-6 h-80" role="img"  aria-label="Carbon emissions comparison chart">
                   <ResponsiveContainer width="100%" height="100%">
                     <BarChart
                       data={footprint.categoryBreakdown}
@@ -511,7 +514,7 @@ export default function Dashboard() {
                   <Target className="size-5 text-teal-700" aria-hidden="true" />
                 </div>
 
-                <div className="relative mt-5 h-64">
+                <div className="relative mt-5 h-64" role="img" aria-label="Carbon reduction goal progress chart">
                   <ResponsiveContainer width="100%" height="100%">
                     <RadialBarChart
                       data={goalChartData}
