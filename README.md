@@ -332,6 +332,32 @@ GitHub: https://github.com/Srijeeta977
 
 ---
 
+## Testing
+
+EcoPilot AI has been tested for:
+
+- Navigation
+- Carbon calculations
+- Simulator projections
+- Challenge tracking
+- Local storage persistence
+- Responsive layouts
+
+Detailed report:
+
+docs/TESTING.md
+
+---
+
+## Security
+
+- No personal information stored
+- Client-side local storage only
+- No third-party tracking scripts
+- No external API keys exposed
+
+---
+
 ## 📜 License
 
 This project is licensed under the MIT License.
