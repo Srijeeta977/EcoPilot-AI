@@ -11,6 +11,8 @@ Built using React, Vite, Tailwind CSS, Recharts, and Local Storage, the platform
 
 📂 Source Code: https://github.com/Srijeeta977/EcoPilot-AI
 
+Demo video : https://www.linkedin.com/posts/srijeeta-dutta-a06b36318_ecopilotai-climatetech-sustainability-ugcPost-7474312953811398656-H_Jk/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCdJSYBh9GXUGk_7Ic17lxz3RWZEW_1Rzk
+
 ---
 ## 📌 Problem Statement
 
