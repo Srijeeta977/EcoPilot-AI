@@ -358,18 +358,16 @@ docs/TESTING.md
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.
-
-See the LICENSE file for more details.
-
----
-
 ## 🌍 Vision
 
 EcoPilot AI aims to make sustainability understandable, measurable, and actionable for everyone.
 
 Small actions create meaningful environmental impact when individuals are empowered with the right information and tools.
+
+---
+
+Copyright (c) 2026 Srijeeta Dutta
+
+All Rights Reserved.
+
+This source code may not be copied, modified, distributed, or used in any form without explicit written permission from the author.
