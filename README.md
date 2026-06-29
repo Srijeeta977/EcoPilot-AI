@@ -223,7 +223,7 @@ The calculations are educational estimates and are intended for awareness and be
 
 ### Demo Video
 
-Uploaded in README-assets. Please download the raw file to view.
+Uploaded in README-assets. In case of large file size please download the raw file to view it.
 
 ---
 
