@@ -221,6 +221,10 @@ The calculations are educational estimates and are intended for awareness and be
 
 ![Challenge 1](README-assets/Challenge.png)
 
+### Demo Video
+
+![Video 1](README-assets/EcoPilot (1).mp4)
+
 ---
 
 ## 📂 Project Structure
