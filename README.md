@@ -223,7 +223,7 @@ The calculations are educational estimates and are intended for awareness and be
 
 ### Demo Video
 
-![Video 1](README-assets/EcoPilot(1).mp4)
+Uploaded in README-assets. Please download the raw file to view.
 
 ---
 
